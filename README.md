@@ -7,5 +7,5 @@
 <li>Analiza la imagen y recorta los caracteres que lo componen</li>
 <li>Mediante un algoritmo de <em>matching</em> realiza comparaciones píxel a píxel con las imágenes que se encuentran en el directorio <em>bin/letras</em> y retorna el resultado más acertado</li>
 </ol>
-![alt tag](https://raw.githubusercontent.com/anbarquer/matriculas/master/screen/matricula.png)
+<img src="https://raw.githubusercontent.com/anbarquer/matriculas/master/screen/matricula.png"/>
 
